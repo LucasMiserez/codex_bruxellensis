@@ -1,0 +1,38 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Codex_Rules from "../components/rules/rules.json";
+import romans from "romans";
+
+const title = "Reglement";
+
+let articleCounter = 1;
+---
+
+<Layout title={title}>
+  <h2 class="mb-4 font-bold text-3xl">{title}</h2>
+  <div class="space-y-4">
+    {
+      Codex_Rules.map((rule, ruleIndex) => (
+        <div class="collapse bg-base-200 collapse-arrow">
+          <input type="checkbox" />
+          <div class="collapse-title text-xl font-medium uppercase">
+            {romans.romanize(ruleIndex + 1)}. {rule.Title}
+          </div>
+          <div class="collapse-content">
+            {rule.Art.map((art, artIndex) => (
+              <>
+                {art.ArtTitle && <h4 class="font-semibold mb-2">{art.ArtTitle}</h4>}
+                <h3 class="font-bold">Art. {articleCounter}</h3>
+                <p>{art.content}</p>
+                {artIndex !== rule.Art.length - 1 && (
+                  <div class="divider divider-neutral" />
+                )}
+                <span class="hidden">{articleCounter++}</span>
+              </>
+            ))}
+          </div>
+        </div>
+      ))
+    }
+  </div>
+</Layout>

@@ -17,6 +17,9 @@ importers:
       astro:
         specifier: ^4.16.9
         version: 4.16.9(rollup@4.24.4)(typescript@5.6.3)
+      romans:
+        specifier: ^2.0.16
+        version: 2.0.16
       tailwindcss:
         specifier: ^3.4.14
         version: 3.4.14
@@ -1675,6 +1678,9 @@ packages:
     resolution: {integrity: sha512-vGorVWIsWfX3xbcyAS+I047kFKapHYivmkaT63Smj77XwvLSJos6M1xGqZnBPFQFBRZDOcG1QnYEIxAvTr/HjA==}
     engines: {node: '>=18.0.0', npm: '>=8.0.0'}
     hasBin: true
+
+  romans@2.0.16:
+    resolution: {integrity: sha512-VsNzu29gZf73w+q4LgNJ4eZ4qss7Wyhwzd4b/GDaOaVINs5OTuvr5NuE/fKnpm0ODBCqXxMcIal1elAbybwWpA==}
 
   run-parallel@1.2.0:
     resolution: {integrity: sha512-5l4VyZR86LZ/lDxZTR6jqL8AFE2S0IFLMP26AbjsLVADxHdhB/c0GUsH+y39UfCi3dzz8OlQuPmnaJOMoDHQBA==}
@@ -4043,6 +4049,8 @@ snapshots:
       '@rollup/rollup-win32-ia32-msvc': 4.24.4
       '@rollup/rollup-win32-x64-msvc': 4.24.4
       fsevents: 2.3.3
+
+  romans@2.0.16: {}
 
   run-parallel@1.2.0:
     dependencies:
