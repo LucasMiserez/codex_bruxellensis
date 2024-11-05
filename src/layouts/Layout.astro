@@ -10,7 +10,7 @@ const { title } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="cmyk">
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content="Astro description" />
@@ -25,8 +25,7 @@ const { title } = Astro.props;
         <Header />
         <slot />
       </div>
-	  <Footer />
+      <Footer />
     </div>
   </body>
 </html>
-
