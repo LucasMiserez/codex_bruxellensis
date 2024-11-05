@@ -13,17 +13,25 @@ let articleCounter = 1;
   <div class="space-y-4">
     {
       Codex_Rules.map((rule, ruleIndex) => (
+		<>
+		{ruleIndex == Codex_Rules.length - 1 && (
+			<div role="alert" class="alert flex justify-center">
+  				<span>Houd in gedachten dat dit reglement niet absoluut is en slechts een richtlijn geeft teneinde het goede verloop van studentikoze activiteiten te garanderen.</span>
+			</div>)}
+		</>
         <div class="collapse bg-base-200 collapse-arrow">
           <input type="checkbox" />
-          <div class="collapse-title text-xl font-medium uppercase">
-            {romans.romanize(ruleIndex + 1)}. {rule.Title}
+          <div class="collapse-title flex justify-between text-xl font-medium ">
+            <p class="uppercase">{ruleIndex != Codex_Rules.length - 1 && (<span>{romans.romanize(ruleIndex + 1)}.</span>)} {rule.Title}</p>
+			<p>Pagina {rule.Page}</p>
           </div>
           <div class="collapse-content">
             {rule.Art.map((art, artIndex) => (
               <>
                 {art.ArtTitle && <h4 class="font-semibold mb-2">{art.ArtTitle}</h4>}
-                <h3 class="font-bold">Art. {articleCounter}</h3>
-                <p>{art.content}</p>
+				{ruleIndex != Codex_Rules.length - 1 && (<h3 class="font-bold">Art. {articleCounter}</h3>)}
+            
+                <p class="whitespace-pre text-wrap">{art.content}</p>
                 {artIndex !== rule.Art.length - 1 && (
                   <div class="divider divider-neutral" />
                 )}

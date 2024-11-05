@@ -38,10 +38,10 @@
         "content": "De praeses stelt een plaatsvervanger aan als men zijn of haar plaats verlaat. Doze verkrijgt dan tijdelijk de praesesmacht."
       },
       {
-        "content":  "Aan elk commando van de praeses moet onmiddellijk gevolg gegeven worden. Het niet gevolg geven aan een commando, alsook het onbevoegd commando-roepen wordt bestraft"
+        "content": "Aan elk commando van de praeses moet onmiddellijk gevolg gegeven worden. Het niet gevolg geven aan een commando, alsook het onbevoegd commando-roepen wordt bestraft"
       },
       {
-        "content":  "De praeses mag één of meerdere zedenmeesters aanstellen, teneinde het behouden van de tucht. Zij staan de praeses hij in het tot uitvoering brengen van straffen en mogen op eigen gezag een straf van maximum vier vingers drank opleggen. Bij betwisting heeft de praeses het laatste woord."
+        "content": "De praeses mag één of meerdere zedenmeesters aanstellen, teneinde het behouden van de tucht. Zij staan de praeses hij in het tot uitvoering brengen van straffen en mogen op eigen gezag een straf van maximum vier vingers drank opleggen. Bij betwisting heeft de praeses het laatste woord."
       }
     ]
   },
@@ -65,7 +65,241 @@
       {
         "content": "De praeses heeft te allen tijde het recht iemand het woord te ontnemen"
       },
-      {"content": "De \"Tempus commune\" wordt door de praeses gegeven als deze het nodig acht. Tijdens deze tempus worden de regels van de Codex opgeschort en mag iedereen de tafels verlaten. Een tempus duurt idealiter net zolang dat iedere aanwezige de tijd heeft gekregen zich te ontlasten, naargelang de wil van de voorzittende praeses. Een \"Tempus privatum\" geldt slechts voor \u00E9\u00E9n commilito. Deze vraagt: \"Senior, tempus privatum peto.\" De praeses antwoordt met \"Habes\" of \"Non habes\". Schachten vragen eerst om toestemming aan hun schachtentemmer. en volgen vervolgens de bovenstaande procedure."}
+      {
+        "content": "De \"Tempus commune\" wordt door de praeses gegeven als deze het nodig acht. Tijdens deze tempus worden de regels van de Codex opgeschort en mag iedereen de tafels verlaten. Een tempus duurt idealiter net zolang dat iedere aanwezige de tijd heeft gekregen zich te ontlasten, naargelang de wil van de voorzittende praeses. Een \"Tempus privatum\" geldt slechts voor \u00E9\u00E9n commilito. Deze vraagt: \"Senior, tempus privatum peto.\" De praeses antwoordt met \"Habes\" of \"Non habes\". Schachten vragen eerst om toestemming aan hun schachtentemmer. en volgen vervolgens de bovenstaande procedure."
+      },
+      {
+        "ArtTitle": "b) Zingen en drinken",
+        "content": "Op commando van de praeses wordt een lid van de corona opgedragen de aanhef van een lied op zich te nemen. Op het commando \"N.N., ad cantandum verbum habes\", staat de aangesprokene recht, en zingt de eerste twee regels van het lied. Leden van de corona kunnen uiteraard ook met hun titel worden aangesproken, in het bijzonder de cantor.\r\n\r\nDe rest van de corona begint slechts te zingen op uitdrukkelijk bevel van de praeses, met het commando: \"Ad Omnes!\" waarna het lied hernomen wordt vanaf de eerste regel. Eventueel kan de praeses goedkeuring uitdrukken door de corona te laten invallen na de tweede regel."
+      },
+      {
+        "content": "De praeses kan het zingen van een bepaald lied of van een willekeurig gedeelte van een lied opdragen aan bv. schachten, anciens, faculteit X. jaar Y, commilito Z, rechter corona, et cetera."
+      },
+      {
+        "content": "Bij het einde van een lied kan de praeses de corona toe drinken met: \"Prosit corona!\"\r\n\r\nDe corona drinkt de praeses dan toe met: \"Prosit senior!\" Daarna vermeldt de praeses hoeveel er moet gedronken worden (ad libitum, ad fundum, 3 vingers, et cetera)"
+      },
+      {
+        "content": "Er wordt enkel gedronken door de corona (zie Art. 1)."
+      },
+      {
+        "content": "Een lid van de corona die een gegronde reden heeft om niet te drinken dient dit aan de praeses te melden. Niemand, zelfs de praeses niet, heeft het recht een lid van de corona meer te laten drinken dan deze kan verdragen."
+      },
+      {
+        "content": "De schachten of, bij gebrek hieraan, de jongsten of gestraften zorgen voor het vullen en ronddragen van de glazen."
+      },
+      {
+        "ArtTitle": "De straffen",
+        "content": "Het staat een praeses vrij te beslissen welke van de volgende straffen toe te passen."
+      },
+      {
+        "content": "Een door de praeses opgelegde straf moet door de betrokkene(n) vas de corona onmiddellijk uitgevoerd worden."
+      },
+      {
+        "content": "De straffen die door de praeses, zonder overleg met anderen en zon. der mogelijk beroep, kunnen opgelegd worden zijn:\r\n- \"Pro-poena\" drinken;\r\n- Bierimpotent verklaren: \r\n- \"Ad pistum\" roepen;\r\n- Buitengooien.\r\nDeze straffen worden meestal in stijgende lijn toegepast voor een hardnekkig saboteur."
+      },
+      {
+        "content": "Het \"pro-poena\" drinken bestaat uit het drinken van een zekere hoeveelheid drank die door de praeses bepaald wordt naargelang de ernst van de inbreuk. De gestrafte staat recht en drinkt toe met \"Prosit senior, (prosit prosenior(en)), prosit corona\", waarna de opgelegde hoeveelheid gedronken wordt."
+      },
+      {
+        "content": "De praeses kan iemand als straf een bepaalde tijd bierimpotent ver- klaren, met als gevolg dat deze persoon in die periode geen bier mag drinken. Naargelang de traditie van de kring kunnen aan de gestrafte wel glazen gegeven worden die dan over het hoofd dienen te worden uitgekapt op het moment dat de gestrafte normaliter zou drinken."
+      },
+      {
+        "content": "\"Ad pistum\" (voor de eretafel) roepen gebeurt meestal in geval iemand te laat komt om deze uitleg te laten geven en eventueel te straffen. Men kan ook iemand \"ad pistum\" laten zitten met als doel deze persoon voor een onbepaalde tijd in het oog te houden."
+      },
+      {
+        "content": "Buitengooien: bij zeer ernstige inbreuken op de reglementen of het halsstarrig weigeren een commando uit te voeren, kan de praeses een lid van de corona voor een onbepaalde tijd of voor de rest van de cantus verwijderen."
+      },
+      {
+        "ArtTitle": "d) De salamander",
+        "content": " De Salamander is een heildronk ter ere van iemand of iets en is dus geen wedstrijd in snel drinken. Bijgevolg kan een straf pint bezwaarlijk een \"straf salamander\" genoemd worden. De salamander wordt door de praeses ingezet met:\r\n    \"Ad exercitium sanctissimi salamandris, omnes commilitones qui adsunt surgite!\"\r\nDe corona staat recht en antwoordt met: \r\n    \"Surgimus!\"\r\nWanneer de corona reeds recht staat worden \"surgite\" en \"surgimus\" vervangen door: \"levate poculo\" en \"levamus\"."
+      },
+      {
+        "content": "Hierna begint de praeses een ritmische monoloog naar eigen inspi- ratie waarbij de corona na iedere zin zijn goedkeuring of afkeer laat blijken. De praeses kan het woord eventueel doorgeven aan anderen in de corona. Op het einde geeft de praeses het commando ad fundum te drinken."
+      },
+      {
+        "ArtTitle": "e) Het Verloop",
+        "content": "De leden van de corona dragen hun klak, labojas en eventueel andere studentikoze attributen. De praeses draagt bovendien een praeses-lint en toga. Iedereen is in het bezit van de Codex; de praeses heeft ook nog een hamer om zijn of haar bevelen kracht bij te zetten. Vanzelfsprekender wijs worden tijdens de cantus alle elektronische toestellen stilgezet."
+      },
+      {
+        "content": "Ongedoopten zijn welkom op een cantus, evenwel is het hen verboden een klak, labojas of toga te dragen."
+      },
+      {
+        "content": "De cantus wordt door de praeses ingezet met: \"Silentium, omnes ad sedes! Surgite! Het clublied!\""
+      },
+      {
+        "content": "Na het zingen van het kring of clublied wordt het \"Lied van Geen Taal\" gezongen gevolgd door het \"Gaudeamus Igitur\", BSK-kringen zingen na het eigen clublied eveneens het lied van het BSK. Deze eerste liederen van de cantus worden rechtstaand gezongen met de klak in de rechterhand ter hoogte van het hart."
+      },
+      {
+        "content": "Om bijval met iets te betuigen wordt niet in de handen geklapt, doch met de knokkels van de vuist op tafel getrommeld. Uit respect voor bepaalde liederen wordt de klak afgenomen, wie zich betrokken voelt, staat ook recht."
+      },
+      {
+        "content": "Wanneer tijdens de cantus een praeses of een prosenior binnenkomt wordt eerst het lied verder uitgezongen, daarna staat iedereen spontaan recht en zingt ter ere van de laatkomer het \"Io vivat\". Hierna dient de laat aangekomene ad pistum te komen om het bestuur te begroeten en eventueel zich nader te verklaren omtrent zijn of haar laattijdigheid, waarna deze persoon al dan niet door de voorzittende praeses gestraft wordt."
+      },
+      {
+        "content": "leder ander die te laat komt wordt vanzelfsprekend gestraft, al dan niet na een kans tot uitleg."
+      },
+      {
+        "content": "De cantus wordt besloten met het \"Tsjechisch drinklied en de \"Oude Roldersklacht\". Daarna wordt \"Le Semeur\u201D gezongen indien dit niet eerder gebeurde tijdens de cantus. Vroeger werd na de \"Oude Roldersklacht\" de \"Vlaamse Leeuw\" gezongen om de cantus af te sluiten."
+      },
+      {
+        "content": "Voor uw gemak staan deze liedjes allemaal samen in het hoofdstukje \"Offici\u00EBle liederen\", in de volgorde waarin ze normaal gezien tijdens de cantus gezongen worden."
+      }
+    ]
+  },
+  {
+    "Title": "Overgave praesesschap",
+    "Page": 18,
+    "Art": [
+      {
+        "content": "Op de laatste cantus van het oude academiejaar of op de eerste cantus van het nieuwe academiejaar treedt de praeses af en wordt de opvolger ge\u00EFnstalleerd. Daartoe geeft de praeses een korte toespraak en vraagt de opvolger bij zich zodat die trouw kan zweren met behulp van een eed formule:\r\n\r\nPraeses: \"Zweert gij onverbreekbaar trouw te zijn aan het principe van het Vrij Onderzoek en aan de beginselen van (naam van de kring) en aldus de traditie voort te zetten van de stichter van onze kring en van alle opeenvolgende praesides?\" \r\nOpvolger \"Ik zweer!\"\r\n\r\nHierna hangt de aftredende praeses het lint over de schouder van de opvolger en zegt:\r\n\r\n   \"Ego, (naam praeses), senior, abdico, et te (naam opvolger), ex autoritate et dignitate, seniorem nomino, nominatum declaro. declaratum proclamo!\u201D \" \r\n\r\nHierna volgt tussen beiden een \"Ave Confrater. De aftredende praeses zet de \"Ave Confrater\" in, en de opvolger drinkt bijgevolg het eerst zijn of haar pint uit. Hierna wordt voor de aftredende en nieuwe praeses het \"lo vivat\" gezongen. Bij bepaalde kringen volgt er eveneens een \"Ave Confrater\" tussen de kersverse praeses en alle aanwezige prosenioren. \r\nDe opvolger verkrijgt nu de leiding over de cantus."
+      }
+    ]
+  },
+  {
+    "Title": "Doop en ontgroening",
+    "Page": 19,
+    "Art": [
+      {
+        "content": "De doop kan enkel beschouwd worden als initiatierite van het stu dentikoze en universitaire leven. Aangezien de doop niet verplicht is, is het niet wenselijk dat de eerstejaars onder druk gezet worden om zich te laten dopen of om tijdens de doop iets totaal tegen hun zin te doen."
+      },
+      {
+        "content": "Toegang tot de facultaire dopen is enkel toegestaan voor facultair gedoopten."
+      },
+      {
+        "content": "Ergens bij het begin van de doop wordt het kringlied of kreet gezongen, gevolgd door het \"Lied Van Geen Taal\" (geen \"Gaudea- mus\"). Na de doop wordt eventueel \"Le Semeur\" gezongen. De doop wordt geleid door de doopmeester. Het commando van de doopmeester wordt enkel teniet gedaan door dat van de praeses. De doopmeester is eveneens verantwoordelijk voor de veiligheid van de schachten en anciens tijdens de doop."
+      },
+      {
+        "content": "De doop geldt zeker niet als ontgroening, dat wil zeggen dat een schacht na de doop nog steeds een schacht blijft. Na de doop verwerft deze slechts het recht op het dragen van een klak en labojas, alsook de mogelijkheid om later op het jaar ontgroend te worden. Voor de ontgroening mag een schacht nog geen andere dopen bezoeken."
+      },
+      {
+        "content": "Bij de ontgroening worden de schachten als volwaardige commilitones in de kring aanvaard. Dit gebeurt samen met het uitreiken van de doopdiploma's op een van de laatste cantussen van het academiejaar."
+      },
+      {
+        "content": "Op het einde van de doop wordt volgende doopeed afgelegd:\r\n\r\n\"Ego, schachtus collosalus, super hoc caput, calvidum, calvidum et frigidum, jure jurendo zwero: Omnes cursos brossare, multas virgines amare et perforare, numquam aquam aut limonadem bibere, multos pintos et cigaros anciennibus offerare, in sa cula saeculorum bieros Flandrienses zabbere, juro sub hoe syns- bolum, quae si non teneo sermentum, ontploffare et stinkendo crevare, volvo jubeoque, sic juveat mihi Bacchus.\"\r\n\r\nOp de VUB wordt na de ontgroening volgende eed afgelegd:\r\n\r\nSchachten:\r\n\r\n\"Ik zweer onverbreekbaar trouw te zijn aan het principe van het Vrij Onderzoek en aan de beginselen van (naam van de kring), haar eer en belangen te verdedigen en voor alle commilitones een waardig confrater te zijn en als nieuw commilito de fakkel van onze Alma Mater waardig te dragen en als baken op te treden in de duistere zee van onwetendheid.\"\r\n\r\nDoopmeester:\r\n\r\n\"Huc communitas studiosorum vos declarat dignissimos commilitones.\""
+      }
+    ]
+  },
+  {
+    "Title": "De klak",
+    "Page": 20,
+    "Art": [
+      {
+        "content": "In deze sectie wordt er over rechts en links gesproken, dit vanuit het standpunt van de drager van de klak, met de klep aan de kant van het aangezicht."
+      },
+      {
+        "content": "Er bestaan enkel facultaire klakken."
+      },
+      {
+        "content": "De klak mag slechts gedragen worden door studenten die facultair gedoopt zijn, volgens de tradities van de universiteiten en de hogescholen. De kleuren ervan worden bepaald door de kring die de studierichting vertegenwoordigt waarvoor de student ingeschreven is, en dus niet door de kring waarbij deze gedoopt is."
+      },
+      {
+        "content": "De klak is wit met een gekleurde band (naargelang de kring die de studierichting vertegenwoordigt), behalve voor de PK, Enigma, Polytechnic en Omega waar ze zwart is. Historisch was de klak blauw voor HOT studenten."
+      },
+      {
+        "content": "Ze heeft een lange of korte klep, naargelang de voorkeur van de drager en de tradities van de kring."
+      },
+      {
+        "content": "Bovenop staat de letterafkorting van de onderwijsinstelling, in een gelijkzijdige driehoek (VUB, ELB, ERM-KMS, ...), vooraan het embleem van de faculteit."
+      },
+      {
+        "content": "Het faculteitsembleem (caducé) wordt achteraan boven de band aangebracht."
+      },
+      {
+        "content": "Links op de band wordt de letterafkorting van de facultaire kring geplaatst en rechts worden die van de andere kringen geplaatst."
+      },
+      {
+        "content": "De gebruikte kleuren voor de band zijn:\r\nzwart           PK, Enigma\r\nrood            GK, Mesacosa, Polytechnic, Omega, M.J\r\ngroen          FK\r\nbordeaux    VRG\r\npurper         WK\r\noranje         Solvay\r\nblauw          PPK, Normalia\r\ngrijs             Pers, LWK\r\ngeel            KEPS\r\nlila              Commin@"
+      },
+      {
+        "content": "Vooraan op de band worden een aantal sterren overeenkomstig het aantal begonnen academiejaren aangebracht, behalve voor de PK, waar zeskanten (boulons) worden gebruikt. Deze worden aangebracht van rechts naar links, zodat het studieverleden van de student kan afgelezen worden."
+      },
+      {
+        "content": "In geen geval worden meer sterren of boulons gedragen dan het aantal academiejaren dat de persoon student is."
+      },
+      {
+        "content": "Bij het aanvangen van een studierichting plaatst men een gouden ster, of een zilveren boulon."
+      },
+      {
+        "content": "Wanneer een student verandert van studierichting wordt de band vervangen door een band in de kleur van de kring die de nieuwe studierichting vertegenwoordigt. De oude sterren en boulons worden naar rechts opgeschoven en op een achtergrond van de bijbehorende kleur geplaatst, ook als dit dezelfde is als de nieuwe. De caducé van de oude richting kan facultatief verhuizen naar een plaats boven de oude sterren, en de caducé van de nieuwe richting krijgt plaats achteraan boven de rand."
+      },
+      {
+        "content": "Bij het afronden van een studierichting wordt de caducé achter de sterren of boulons van die studierichting geplaatst. Wordt er in dit geval een nieuwe studie aangevat, dan wordt de band behouden en worden de nieuwe sterren of boulons op een band van de nieuwe kleur bijgeplaatst"
+      },
+      {
+        "content": "De aard van een ster of boulon (goud of zilver) heeft betrekking tot het studieverleden in de huidige studierichting. Zo is de cerseerste te van een studierichting steeds een gouden ster of zilveren boulon (zie Art. 60).\r\n\r\nGegeven dat een jaar in een modeltraject 60 credits beslaat, is het zo dat een nieuwe gouden ster of zilveren boulon wordt bijgeplaatst als de student 60 credits of meer heeft afgewerkt per gouden ster of zilveren boulon die voor zijn huidige studierichting op de klak staan. Komt een student niet aan dit totaal, dan komt er een zilveren ster of gouden boulon bij op de klak. Als er voor een studierichting andere totalen voor een modeltraject zijn, worden deze gebruikt. Een paar voorbeelden ter verduidelijking:\r\n   - De ideale student blokt zich blauw en behaalt elk jaar het vakkenpakket. Deze student plaatst elk jaar een gouden ster of zilveren boulon.\r\n   - Een student met gematigde academische prestaties behaalde in z'n eerste jaar 45 credits, en plaatst een zilveren ster of gouden boulon.\r\n   - In het daarop volgende jaar behaalt deze student 32 bijkomende credits, en plaatst fier een gouden ster of een zilveren boulon. want 77 is meer dan 60.\r\n   - Na nog een jaar van zwoegen behaalt deze student 42 credits, en plaatst een zilveren ster of gouden boulon want 119 is minder dan 120.\r\nDe credits van een voorbereidend jaar of bijkomende cursussen (bv. taalcursus) tellen niet voor het totaal van de studierichting."
+      },
+      {
+        "content": "Als een student op hetzelfde moment ingeschreven is in meerdere, volwaardige studierichtingen wordt de rand horizontaal gesplitst in de kleuren van de betrokken richtingen, en gelden dezelfde regels als voor een enkele inschrijving, met dit verschil dat het aantal credits per symbool vermenigvuldigd wordt met het aantal studierichtingen. Wil zulks een student met bijvoorbeeld twee richtingen een nieuwe gouden ster of boulon plaatsen, moet deze derhalve de grens van 120, 240, et cetera credits behaald hebben in het voorgaande jaar. In het geval dat zulks een student voor de ene richting een ster en de andere richting een boulon zou moeten plaatsen, mag deze student kiezen om sterren, boulons, of hybride ster-boulons te plaatsen, maar eens de keuze gemaakt blijft de student er wel bij."
+      },
+      {
+        "content": "Ook de klak wordt gedoopt, dit volgens de tradities van de facultaire kring. Ten teken hiervan wordt in het midden van de voering een gaatje gebrand. Degene die de klak doopt moet tot het hestune behoren of prosenior zijn van deze kring, al naargelang de tradities van deze kring."
+      },
+      {
+        "content": "De klak kan volgens eigen smaak en volgens de tradities van de kring versierd worden met persoonlijke en symbolische elementen: een opsomming valt echter buiten de bedoeling van dit reglement."
+      }
+    ]
+  },
+  {
+    "Title": "Het lint",
+    "Page": 23,
+    "Art": [
+      {
+        "content": "Binnen de studentikoze kringen bestaan er drie soorten linten: het praeseslint, het praesidiumlint en het clublint. Enkel studentikoze kringen dragen linten."
+      },
+      {
+        "ArtTitle": "a) Het praeseslint",
+        "content": " Dit is 2.10m lang en 12cm breed. Het wordt boven op de kledij over de rechterschouder gedragen, met het schild op de borst en toe geknoopt met gouden franjes op het einde.\r\nHet academisch jaar van het voorzitterschap wordt in een strookje op 1cm afstand van de bovenzijde van het schild in goud geborduurd. Indien men meerdere jaren praeses is worden extra strookjes geplaatst. Het wapenschild heeft de vorm van een heraldisch Vlaams schild, horizontaal aan het hoofd en afgerond aan de voet. Op het schild worden geen benamingen aangebracht. De grootte is 10.5 cm op 9 cm. Er komt eveneens geen vermelding \"praeses\" of \"senior\" op vermits enkel de praeses een breed lint met schild draagt."
+      },
+      {
+        "content": " Het praeseslint van de facultaire kringen bestaat uit één kleur, de faculteitskleur (zie Art. 57). Alleen bij de Polytechnische Kring is het afgeboord met een 5mm breed zilveren randje. Het schild is in twee verdeeld van boven naar onder. Rechts als men ernaar kijkt, bevindt zich de Vlaamse Leeuw (zwart of sabel op geel of goud). Op het tweede veld bevindt zich het wapen van de Faculteit. Aan het hoofd bevindt zich een faas (horizontale band) met de Geuzen- kleuren: van boven naar beneden: oranje, blanje (wit), bleu (blauw)."
+      },
+      {
+        "content": "Het praeseslint van een regionale kring bestaat uit twee de of drie gekleurde stroken. Het schild is gehalveerd of gekwadrateerd. Op de rechterkant ervan vindt men, op een veld, diagonaal de kring kleuren, de letters V, F en C (Vivat Florent Crescat) in één pennen trek geschreven met ernaast de letterafkorting van de kring, gevolg door een uitroepteken. Aan het hoofd kan eventueel een faas zij met de kleuren van de kring en de geuzenkleuren."
+      },
+      {
+        "content": "Het praeseslint van een speciale kring (zoals SWAMP) is opgebouwd zoals bij een regionale kring, het schild echter zoals bij een facultaire kring maar met de Vlaamse Leeuw links."
+      },
+      {
+        "content": "Het praeseslint van de hogeschool kringen bestaat uit twee of drie kleurstroken. Het schild is gehalveerd of gekwadrateerd. Op de rechterkant ervan vindt men, op een veld, diagonaal de kring kleuren, de letters V, F en C in één pennentrek geschreven met ernaast de letterafkorting van de kring, gevolgd door een uitroepteken. Links vindt men het symbool van de kring. De faas is in de hoofdkleur van de kring en bevat de naam van de kring."
+      },
+      {
+        "content": "Een prosenior mag zijn of haar lint blijven dragen, zelfs al wordt hij of zij opnieuw praeses van een andere kring."
+      },
+      {
+        "ArtTitle": "b) Het praesidiumlint",
+        "content": " Naargelang de traditie kunnen er praesidiumlinten bestaan."
+      },
+      {
+        "content": "Het praesidiumlint is 1.50m lang en 9cm breed en is aan de uiteinden vastgenaaid. Het praesidiumlint bestaat uit dezelfde kleurencombi- natie als het praeseslint. Op de borst wordt het monogram van de kring en de naam van de kring geborduurd; onder het monogram de functie en erboven het jaar. Indien men meerdere jaren praesidium- lid is, worden de extra jaren bovenaan en de extra functies onderaan geborduurd."
+      },
+      {
+        "ArtTitle": "Het clublint",
+        "content": "Het clublint is bij de meeste kringen in onbruik geraakt. Het is slechts 1.20m lang en 27mm breed. De kleuren van het clublint zijn volgens de tradities van de kring. De anciens dragen hun lint over de rechterschouder, de schachtentemmer één over elke schouder. Schachten dragen geen clublint."
+      }
+    ]
+  },
+  {
+    "Title": "Labojas en toga",
+    "Page": 25,
+    "Art": [
+      {
+        "content": "Ieder gedoopt lid van de kring heeft het recht een naar eigen smaak versierde witte labojas te dragen."
+      },
+      {
+        "content": "De toga wordt enkel gedragen door de praeses, vice-praeses en een derde bestuurslid (naargelang de kring de cantor, de doopmeester of de folkloreverantwoordelijke) van een studentikoze kring. \r\nBij Polytechnic en Omega draagt het ganse bestuur een toga. Enkel de praeses blijft na diens ambtstermijn, d.w.z. als deze prosenior is geworden, nog een toga dragen. Een prosenior die praeses  is geweest van verschillende kringen draagt de toga van een van deze kringen, naar persoonlijke voorkeur."
+      },
+      {
+        "content": "De toga is een enkellang rondom gesloten eendelig kleed, in de kleur(en) van het praeses lint. Eventueel wordt op de achterkant het embleem van de kring en op de voorkant de letterafkorting van de kring aangebracht."
+      }
+    ]
+  },
+  {
+    "Title": "Conventies",
+    "Page": 26,
+    "Art": [
+      {
+        "content": "   - T: heeft betrekking op de tekst van een liedje\r\n\r\n   - M. heeft betrekking op de melodie van een liedje\r\n\r\n   - Het refrein van een lied staat steeds in cursieve letters gedrukt, maar wordt enkel als dusdaning aangeduid wanneer verwarring mogelijk is.\r\n\r\n   - Het refrein dient na elke strofe herhaald te worden. Enkel afwijkingen op deze regel, zoals een onregelmatige herhaling van het refrein of veranderingen in de tekst van het refrein, worden expliciet aangeduid. Wanneer verwarring mogelijk is, werd eveneens de plaatsing van het refrein aangeduid.\r\n\r\n   - Info die betrekking heeft op het zingen van een lied staat vet gedrukt.\r\n\r\n   - De liedjes staan alfabetisch en per taalstelsel geordend. Daarvoor komt nog een hoofdstuk clubliederen, evenals een hoofdstuk offici\u00EBle liederen. Ook voor de clubliederen werd een alfabetische schikking gebruikt. De offici\u00EBle liederen staan gerangschikt zoals ze op een cantus gezongen worden.\r\n\r\n   - Alfabetisch: de alfabetische rangschikking van de liedjes is opge- maakt aan de hand van het eerste woord van de titel van het lied. Wanneer het eerste woord van de titel van een lied een lidwoord is, wordt met dit woord geen rekening gehouden voor de ordening. Men gaat dan over naar het tweede woord, enzovoort. Ook voor de anderstalige liederen worden de lidwoorden overgeslagen voor de alfabetische ordening. Ter herinnering: Frans (\"le\", \"la\", \"les\", \"un\", \"une\"); Duits (\"ein\" en \"der\" en hun verbuigingen); Engels (\"the\" \"an\", \"a\"); Zuid-afrikaans (\"die\"); Spaans (\"el\"); en alle afkortingen daarvan.\r\n\r\n   - Taalstelsel: men maakt een onderscheid tussen, in volgorde, Nederlandstalige, Franstalige, Duitstalige, Engelstalige en anderstalige liedjes. In dit laatste hoofdstuk vindt men al wat niet in de voorgaande hoofdstukken paste.\r\n\r\n   - Om folkoristische redenen werden in de oude VUB-codexen consequent de woorden \"god\", \"Jezus\", \"christen\", et cetera vervangen door \"Geus\" of een vervorming daarvan. In de BSK-codex gebeurde dit niet. Daar wij deze folklore hoog willen houden, hebben wij hier eveneens de nodige vervangingen doorgevoerd. Echter, om redenen van originaliteit in de teksten, hebben wij, overal waar dergelijke substituties plaatsvonden, de veranderde tekst in cursief gezet. Zo doende kan men zien waar onze versie afwijkt van het origineel.\r\n\r\n   - Informatie i.v.m. de tekeningen bevindt zich in een ander lettertype onderaan de pagina, of de pagina ernaast, als het om een tekening gaat die een volledige bladzijde inneemt."
+      }
     ]
   }
 ]
