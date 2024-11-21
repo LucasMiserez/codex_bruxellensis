@@ -1,9 +1,12 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import Codex_Rules from "../components/rules/rules.json";
 import romans from "romans";
+import type { RootRules } from "../lib/interface";
 
 const title = "Reglement";
+
+const response = await fetch(`${import.meta.env.PUBLIC_BASE_URL}api/rules`)
+const Codex_Rules = await response.json() as RootRules;
 
 let articleCounter = 1;
 ---
