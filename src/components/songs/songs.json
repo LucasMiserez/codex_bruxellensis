@@ -1,8 +1,58 @@
-[
-  {
-    "Title": "Antverpia",
-    "Pagina": "33",
-    "Extra": "",
-    "Content": "Studenten uit Antwerpen\r\nGestich in 1977\r\nStichter: Leo Ven\r\nKleuren: rood-wit-rood "
-  }
-]
+{
+  "categorieen": [
+    {
+      "categorie": "Kringliederen",
+      "liederen": [
+        {
+          "kring": "Antverpia",
+          "pagina": 33,
+          "content": "Studenten uit Antwerpen\r\nGestich in 1977\r\nStichter: Leo Ven\r\nKleuren: rood-wit-rood",
+          "songs": [
+            {
+              "titel": "Antverpia Lied",
+              "pagina": 33,
+              "extra": "M: In' t Antwerps a.u.b.', De Strangers",
+              "content": "Antw\u00E2rpe\u2026 gij z\u00E8 ga veur mij Toch de stad waar azzek z\u00E8n gebore De Greunpleuts, de Meir... de Keyserlei Daar hemme kik m'n hart verlore\r\n\r\nAntw\u00E2rpe... waar da'k ik ook ben Ik kan nievrans mijnen draai ni vinde 'k Weet het 't is flaa... mor ik beken Bij aa z\u00E8n 'k thuis... en onder vrinde\r\n\r\nCheerio, Cheerio, In Antwerpen daar poepen ze zo Eerst met de vinger en dan met de fluit Ge steekt hem erin en ge trekt hem eruit En zolang er Sinjoren bestaan, Zal Antwerpen nooit niet vergaan. Wij weten wat lol is, als 't pintje maar vol is De rest trekken wij ons niet aan!"
+            }
+          ]
+        },
+        {
+          "kring": "Bierkultuur",
+          "pagina": 34,
+          "content": "Studenten met een passie voor bier\r\nGesticht in 2005 Stichters: Igor Michiels, Tom Lerminiaux,\r\nDebbie Timmermans, Robin Paulus\r\nKleuren: blond-blanche-bruin",
+          "songs": [
+            {
+              "titel": "Bierkultuur Kreet",
+              "pagina": 34,
+              "extra": "M: In' t Antwerps a.u.b.', De Strangers",
+              "content": "Zuip je voor het eerst, dan heb je een kater\r\nTrek het je niet aan, ga door want later\r\nGeniet je des te meer\r\nVan bier en van BK\r\nVan bier en van BK\r\nVan BK en bier"
+            },
+            {
+              "titel": "Bierkultuur Lied",
+              "pagina": 34,
+              "extra": "M: 'Mijn vriend Benjamin', Louis Neefs",
+              "content": "BierKultuur zijn een bende hechte vrienden\r\nEn we zorgen voor vertier\r\nWe hebben elkaar hier kunnen vinden\r\nBij een glaasje lekker bier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorie": "Nederlandstalig",
+      "liederen": [
+        {
+          "titel": "Song Title 5",
+          "pagina": 5,
+          "extra": "Additional info about the song",
+          "content": "Lyrics or details about the song"
+        },
+        {
+          "title": "Song Title 6",
+          "pagenumber": 6,
+          "extra": "Additional info about the song",
+          "content": "Lyrics or details about the song"
+        }
+      ]
+    }
+  ]
+}

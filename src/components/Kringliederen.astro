@@ -1,0 +1,12 @@
+---
+import type { RootCategorieen } from "../lib/interface";
+import SearchLiederen from "./songs/SearchLiederen.vue";
+
+const response = await fetch(import.meta.env.PUBLIC_BASE_URL + "api/songs");
+const responseJson = (await response.json()) as RootCategorieen;
+const KringliederenList = responseJson.categorieen.find(
+  (categorie) => categorie.categorie === "Kringliederen"
+)?.liederen;
+---
+
+<SearchLiederen client:load liederenList={KringliederenList} />

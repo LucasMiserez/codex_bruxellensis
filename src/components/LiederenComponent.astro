@@ -1,0 +1,33 @@
+---
+import type { Liederen } from "../lib/interface";
+
+type Props = {
+  LiederenLijst: Liederen[];
+};
+const {LiederenLijst} = Astro.props;
+
+console.log(LiederenLijst)
+---
+
+<ul class="menu bg-base-200 rounded-box">
+  {
+    LiederenLijst?.map((kring) => (
+      <li data-kring={kring.kring}>
+        <a class="flex w-full justify-between">
+          <span>{kring.kring}</span>
+          <span>p. {kring.pagina}</span>
+        </a>
+        <ul>
+          {kring.songs?.map((song) => (
+            <li data-title={song.titel.toLowerCase()}>
+              <a class="flex w-full justify-between">
+                <span>{song.titel}</span>
+                <span>p. {song.pagina}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </li>
+    ))
+  }
+</ul>
